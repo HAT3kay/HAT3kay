@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kayode Adeniyi
 - 👀 I’m interested in game development
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning Node js
 - 📫 How to reach me twitter:@kaywsee email:kayboi126@gmail.com
 
 <!---
